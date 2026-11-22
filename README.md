@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & Software Engineer, also known online as <a href="https://x.com/theRealBibson">₿ibson</a></h3>
 
 <p align="center">
-  Full-stack developer based in Ilorin, Kwara State, Nigeria, building web, mobile & AI-powered products for clients worldwide.
+  Full-stack developer building web, mobile & AI-powered products for clients worldwide.
 </p>
 
 <p align="center">
